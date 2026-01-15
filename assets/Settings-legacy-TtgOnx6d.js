@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BMfmwdU-.js"],(function(e,t){"use strict";var n,r,c,s;return{setters:[e=>{n=e._,r=e.g,c=e.r,s=e.o}],execute:function(){e("default",n({},[["render",function(e,t){const n=c("v-container");return s(),r(n)}]]))}}}));
