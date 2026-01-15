@@ -1,0 +1,1 @@
+import{_ as o,r as n,g as r,o as s,w as a,k as c}from"./index-CbxCmy7Q.js";const _={};function l(f,e){const t=n("v-container");return s(),r(t,null,{default:a(()=>e[0]||(e[0]=[c("asd")])),_:1})}const i=o(_,[["render",l]]);export{i as default};
